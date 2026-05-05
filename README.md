@@ -21,7 +21,7 @@ The framework is described in full in:
 ```
 VA/
 ├── SAIL_Extraction2_fixed.py      # OIG URL scanner and PDF discovery
-├── ...                            # Additional pipeline scripts
+├── ...                            # Additional pipeline scripts to be added later
 │
 └── [OIG-Reports branch]
     ├── ground_truth_final.csv     # Facility-level OIG classifications
