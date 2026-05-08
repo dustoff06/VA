@@ -1,0 +1,53 @@
+sail_key,state,oig_report_no,classification,summary_note
+AMARILLO,TX,14-02890-152,A,"Amarillo Endoscopy paper tracking systems were determined to be legitimate operational tools; however, an employee at Lubbock OPC reported desired-date substitution practices linked to prior supervisory instruction, creating evidence of improper scheduling behavior without broader corroboration of systemic manipulation."
+AMERICANLAKE,WA,14-02890-229,A,Fabricated veteran contact-date concerns suggested problematic documentation practices but not fully substantiated fraud.
+BATTLECREEK,MI,14-02890-228,N,Retroactive appointment creation reflected documentation of same-day outreach encounters rather than concealment.
+BAYPINES,FL,14-02890-133,S,OIG concluded N but schedulers admitted desired-date substitution; upgraded on evidentiary grounds
+BOISE,ID,14-02890-233,N,Consult delays stemmed from provider shortages; consult closures and EWL usage followed policy.
+BROOKLYN,NY,14-02890-190,N,Radiology no-show cancellation practices followed legacy guidance and were not found to constitute manipulation.
+CENTRALIOWA,IA,wait-times-14-02890-122,N,Tracking spreadsheets were known to management and used operationally for continuity of care; OIG did not substantiate concealment or intentional wait-time manipulation.
+DALLAS,TX,14-02890-138,A,"Fort Worth OPC staff confirmed scheduling practices inconsistent with VHA Directive requirements, including desired-date handling problems; however, evidence suggested systemic training and VistA workflow confusion, and management had begun corrective actions prior to investigation."
+DANVILLE,IL,14-02890-174,S,Weekly over-14-day scheduling reports were circulated and multiple MSAs confirmed routine zeroing-out practices; at least one employee reported explicit instruction to manipulate desired dates while another described an implied coercive environment with feared repercussions for noncompliance.
+DENVER,CO,14-02890-214,N,OIG did not substantiate destruction of wait-list information; operational transition issues predominated.
+ELPASO,TX,14-02890-137,S,"OIG identified desired-date substitution practices in which negotiated or next-available appointment dates were entered instead of veterans? true requested dates, producing artificially reduced wait times."
+FORTWORTH,TX,14-02890-156,A,"Pressure existed to use next available dates and optimize scheduling metrics, though evidence of organized fraud was limited."
+GAINESVILLE,FL,14-02890-135;14-02890-143,S,"Although initial findings emphasized operational scheduling deficiencies, subsequent evidence tied to Tallahassee OPC identified directed manipulation, post-Phoenix concealment behavior, and witness intimidation under the Gainesville administrative structure."
+GRANDJUNCTION,CO,14-02890-215,N,Spreadsheet tracking was validated as an operational VISN-supported process tool.
+HARLINGEN,TX,wait-times-14-02890-165,S,"OIG identified systematic ?backing out? scheduling methods, suppression of EWL use, and fabricated access metrics sustained through improper staff training until corrective scheduling enforcement began in January 2014; findings were referred to VA Accountability Review."
+HINES,IL,14-02890-180,S,Excel tracking systems created the appearance of 14-day compliance while veterans waited substantially longer.
+HONOLULU,HI,14-02890-157,N,"Scheduling errors and shortages existed, but intentional manipulation was not substantiated."
+HOUSTON,TX,wait-times-14-02890-163,S,Schedulers were trained to use appointment dates as desired dates to create zero-day waits.
+HUNTINGTON,WV,14-02890-177,N,High-profile allegations regarding suicides and delayed psychiatric care could not be substantiated.
+KANSASCITY,MO,14-02890-202,N,"Investigation identified negligence by an individual scheduling clerk who failed to process approximately 1,032 follow-up ?yellow sheet? requests; management self-reported the issue and immediately scheduled delayed appointments, with no evidence of institutional wait-time gaming or metric manipulation."
+LAKECITY,FL,wait-times-14-02890-120,N,Paper logbook functioned as an operational duplicate scheduler rather than a concealed wait list.
+LAKEHAVASU,AZ,14-02890-191,N,Paper scheduling allegations lacked corroborating evidence and specific examples.
+LEAVENWORTH_TOPEKA,KS,14-02890-225,N,Allegations regarding miscoded cancellations for financial benefit were not substantiated.
+LITTLEROCK,AR,14-02890-197,S,Longstanding systemic training taught schedulers to manipulate desired dates and reset appointments to zero out waits.
+LOSANGELES,CA,14-02890-236,S,"Supervisors and schedulers systematically manipulated desired dates, deleted comments, overbooked appointments, and zeroed out waits."
+LOUISVILLE,KY,14-02890-192,N,"Investigations involving Louisville and Dupont CBOC did not substantiate systemic wait-time manipulation; concerns were largely tied to workplace disputes and differing interpretations of scheduling procedures, while Dupont scheduling practices were found compliant with Directive 2010-027."
+MANCHESTER,NH,14-02890-232;14-02890-243,S,"OIG documented desired-date manipulation, EWL avoidance, consult discontinuance, leadership pressure, and performance-driven wait-time gaming."
+MARIANNA,FL,wait-times-14-02890-121,N,Paper tracking lists were operational workarounds rather than intentional wait-time manipulation.
+MEMPHIS,TN,14-02890-201,N,"Scheduling confusion existed, but secret lists and deliberate concealment were not substantiated."
+MIAMI,FL,14-02890-151,S,"Consults were discontinued and veterans removed from active access lists under managerial direction, masking delays and manipulating metrics."
+MINNEAPOLIS,MN,wait-times-14-02890-125;14-02890-154,N,Two reports; no manipulation substantiated; Access database legitimate clinical tool
+MURFREESBORO,TN,14-02890-196,S,Schedulers admitted systematic zeroing out of wait times under supervisory pressure.
+NASHVILLE,TN,14-02890-194;14-02890-195;14-02890-196,S,"Across Tennessee Valley Healthcare System facilities, OIG identified management-directed desired-date replacement practices, systematic zeroing-out of wait times, and a coercive scheduling culture involving feared repercussions for noncompliance. Although one investigation did not substantiate records concealment allegations, the combined evidence across Chattanooga and Murfreesboro supported systemic wait-time manipulation behaviors."
+NEWORLEANS,LA,14-02890-168,A,"Schedulers were trained to use next available dates as desired dates, creating distorted metrics through improper training."
+NORTHAMPTON,MA,14-02890-216,N,Desired-date misuse stemmed from inadequate understanding of scheduling procedures rather than management pressure or deliberate metric manipulation; OIG identified no gaming schemes or patient harm.
+ORLANDO,FL,14-02890-134,S,EWL manipulation confirmed; Daytona Beach OPC under Orlando administrative control
+PALOALTO,CA,14-02890-224,N,No evidence substantiated hidden GI wait lists or concealment.
+PHILADELPHIA,PA,14-02890-179;wait-times-14-02890-166,S,Password-protected spreadsheets and consult cancellation/recreation practices were tied to desired-date manipulation.
+PHOENIX,AZ,14-02603-267,S,"Systemic manipulation of wait times, unofficial wait lists, falsified zero-day waits, and leadership-driven pressure were substantiated."
+PORTLAND,OR,14-02890-167,N,Placeholder scheduling practices reflected workflow limitations rather than intentional manipulation.
+PUGETSOUND,WA,14-02890-175,N,"At the Chehalis CBOC, fewer than 10 desired-date changes were identified over a three-year period and were characterized as clerical corrections; OIG found no documentary evidence of direction to manipulate wait-time metrics."
+SANANTONIO,TX,14-02890-169;14-02890-170;wait-times-14-02890-163;wait-times-14-02890-164,S,"Multiple investigations substantiated desired-date manipulation, cancellation/rescheduling practices, and explicit zero-out scheduling behavior."
+SANDIEGO,CA,14-02890-227,A,"Supervisors encouraged schedulers to offer next available appointments first, creating pressure toward metric-oriented scheduling behavior."
+SANDIEGO_MH,CA,14-02890-247,S,"Mental Health scheduling staff faced sustained pressure to alter desired dates and maintain zero-day waits, with adverse patient-care implications."
+SANJUAN,PR,14-02890-219,A,Negotiated desired-date practices distorted wait-time reporting despite denial of intentional gaming.
+SHREVEPORT,LA,14-02890-173,A,Large Mental Health tracking spreadsheets were maintained outside standard systems due to staffing shortages and continuity concerns.
+STAUGUSTINE,FL,wait-times-14-02890-124,N,Paper lists related to caregiver support planning and not concealed scheduling activity.
+TEMPLE,TX,14-02890-148;14-02890-150,S,"Evidence identified systemic zeroing of wait times despite create dates preceding appointments by one to two months, along with supervisory pressure and threats of termination at Kerrville OPC; objective scheduling data contradicted OIG?s no-malicious-intent interpretation."
+TUCSON,AZ,14-02890-72,S,Managers directed staff to zero out wait times in violation of scheduling policy.
+TUSCALOOSA,AL,14-02890-193,S,"Facility fact-finding confirmed use of paper tracking lists outside official scheduling systems; multiple witnesses contradicted denials by scheduling staff, and supervisory personnel demonstrated inadequate understanding of Directive 2010-027, supporting systemic improper scheduling practices."
+WESTPALMBEACH,FL,14-02890-127,S,OIG substantiated use of incorrect desired dates and appointment gaming tied to performance metrics and leadership incentives.
+WICHITA,KS,14-02890-171,N,"HBPC tracking lists were maintained transparently on SharePoint for operational coordination purposes, and the Lead MSA explicitly stated in writing that no wait-time data manipulation occurred."
