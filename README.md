@@ -22,6 +22,7 @@ The framework is described in full in:
 VA/
 ├── SAIL_Extraction2_fixed.py              # OIG URL scanner and PDF discovery
 ├── FORGE VA Supplementary Variables.pdf   # Identifier consolidation, metric harmonization, operational definitions, feature list, and Isolation Forest configuration
+├── ground_truth_explanations              # Summaries of classification reasons
 │
 └── [OIG-Reports branch]
     ├── ground_truth_final.csv             # Facility-level OIG classifications
@@ -33,7 +34,7 @@ VA/
 
 The `OIG-Reports` branch contains the complete VA OIG wait-time investigation corpus used as external ground truth in the FORGE-VA validation framework.
 
-- **`ground_truth_final.csv`** — Facility-to-report mapping with classifications: `Substantiated (S)`, `Not Substantiated (N)`, and `Ambiguous (A)`
+- **`ground_truth_final-normalized.csv`** — Facility-to-report mapping with classifications: `Substantiated (S)`, `Not Substantiated (N)`, and `Ambiguous (A)`
 - **`discovered_urls.json`** — All confirmed PDF URLs discovered via systematic enumeration of the VA OIG public document repository
 - **PDF reports** — Full text of VA OIG Administrative Investigation Summaries, 14-02890 series (2014–2016)
 
