@@ -20,13 +20,13 @@ The framework is described in full in:
 
 ```
 VA/
-├── SAIL_Extraction2_fixed.py      # OIG URL scanner and PDF discovery
-├── ...                            # Additional pipeline scripts to be added later
+├── SAIL_Extraction2_fixed.py              # OIG URL scanner and PDF discovery
+├── FORGE VA Supplementary Variables.pdf   # Identifier consolidation, metric harmonization, operational definitions, feature list, and Isolation Forest configuration
 │
 └── [OIG-Reports branch]
-    ├── ground_truth_final.csv     # Facility-level OIG classifications
-    ├── discovered_urls.json       # Confirmed OIG report URLs (14-02890 series)
-    └── [PDF corpus]               # Downloaded VA OIG administrative summaries
+    ├── ground_truth_final.csv             # Facility-level OIG classifications
+    ├── discovered_urls.json               # Confirmed OIG report URLs (14-02890 series)
+    └── [PDF corpus]                       # Downloaded VA OIG administrative summaries
 ```
 
 ### Branch: `OIG-Reports`
