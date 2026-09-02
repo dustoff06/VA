@@ -93,18 +93,20 @@ Effect-size-weighted (rank-biserial $r$) fusion of all three blocks. Facilities 
 ## Validation
 
 External ground truth: VA OIG administrative investigation summaries classified as:
-- **S** — Substantiated (confirmed fraud, $n = 31$)
-- **N** — Not Substantiated (investigated, $n = 19$)
-- **B** — Background (never investigated, $n = 72$)
+- **S** — Substantiated (confirmed fraud, $n = 23$)
+- **N** — Not Substantiated (investigated, $n = 22$)
+- **B** — Background (never investigated, $n = 104$)
 
 | Metric | Value |
 |--------|-------|
-| AUC-ROC (Ensemble) | 0.748 |
-| PR-AUC | 0.527 |
-| Fraud Recall | 0.677 |
-| Enrichment vs. Random | ~2× |
-| S > B separation | p < 0.0001 |
-| N vs. B separation | p = 0.2215 |
+| AUC-ROC (Ensemble) | 0.730 |
+| PR-AUC | 0.525 |
+| Fraud Recall (F1-optimized threshold) | 0.478 |
+| Enrichment vs. Random (top 40) | ~2× |
+| S > B separation | p = 0.0003 |
+| N vs. B separation | p = 0.1667 |
+
+*Note: these figures reflect the current, fully-adjudicated ground-truth corpus in this repository. Earlier drafts of the associated manuscript cited an interim ground-truth snapshot ($n_S=31$); the manuscript has been updated to match the numbers above.*
 
 ---
 
