@@ -20,7 +20,7 @@ The framework is described in full in:
 
 ```
 VA/
-├── SAIL_Extraction2_fixed.py              # OIG URL scanner and PDF discovery
+├── For Upload to Github.ipynb             # OIG URL scanner and PDF discovery
 ├── FORGE VA Supplementary Variables.pdf   # Identifier consolidation, metric harmonization, operational definitions, feature list, and Isolation Forest configuration
 ├── ground_truth_explanations              # Summaries of classification reasons
 │
