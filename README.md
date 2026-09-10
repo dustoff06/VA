@@ -1,4 +1,4 @@
-# FORGE-VA Wrapper
+# FORGE-VA Wrapper Implementation
 
 A standalone, runnable version of the FORGE-VA gaming-detection pipeline
 (Sharma, Fulton, Tomic, & Fulton — *Identifying Structural Vulnerabilities
